@@ -1,0 +1,3 @@
+[2026-07-28 23:34:21] Starting backup execution...
+[2026-07-28 23:34:21] SUCCESS: Backup created at /var/backups/homelab/homelab_backup_2026-07-28_233420.tar.gz
+[2026-07-28 23:34:21] Rotation complete. Old backups cleaned.

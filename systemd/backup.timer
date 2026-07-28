@@ -1,0 +1,11 @@
+[Unit]
+Description=Timer for Homelab Automated Backup Service
+
+[Timer]
+# Se ejecuta diariamente y 5 minutos después del arranque del sistema
+OnBootSec=5min
+OnCalendar=daily
+Persistent=true
+
+[Install]
+WantedBy=timers.target
