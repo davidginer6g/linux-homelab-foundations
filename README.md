@@ -2,7 +2,7 @@
 
 This repository contains the architecture, configurations, and automation of a production-oriented Linux system management environment.
 
-## Project Components
+## Project Components:
 
 ### Security and Hardening (SSH, UFW, Fail2ban)
 - **SSH Hardening:** Mandatory key-based authentication using `ED25519`. Root access and passwords are disabled in `/etc/ssh/sshd_config`.
